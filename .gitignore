@@ -1,0 +1,20 @@
+# i-Route
+*.log
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Backend
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Docker
+iroute_mysql_data/
